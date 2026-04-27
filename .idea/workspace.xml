@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a951bc77-41a0-408c-a2ff-598a14c9af07" name="Changes" comment="initialize project structure with essential configuration files and a sample Jupyter Notebook">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a951bc77-41a0-408c-a2ff-598a14c9af07" name="Changes" comment="update sample notebook with macroeconomic indicators extraction and data cleaning process">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sample.ipynb" afterDir="false" />
     </list>
@@ -24,8 +23,8 @@
   </component>
   <component name="CopilotUserSelectedModel">
     <selectedModels>
-      <entry key="chat-panel" value="Gemini 3.1 Pro" />
-      <entry key="agent-panel" value="Gemini 3.1 Pro" />
+      <entry key="chat-panel" value="GPT-5 mini" />
+      <entry key="agent-panel" value="GPT-5 mini" />
     </selectedModels>
   </component>
   <component name="Git.Settings">
@@ -84,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1777319862845</updated>
-      <workItem from="1777319863892" duration="1682000" />
+      <workItem from="1777319863892" duration="2325000" />
     </task>
     <task id="LOCAL-00001" summary="initialize project structure with essential configuration files and a sample Jupyter Notebook">
       <option name="closed" value="true" />
@@ -94,7 +93,23 @@
       <option name="project" value="LOCAL" />
       <updated>1777320898017</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update sample notebook with macroeconomic indicators extraction and data cleaning process">
+      <option name="closed" value="true" />
+      <created>1777321604994</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1777321604994</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update sample notebook with macroeconomic indicators extraction and data cleaning process">
+      <option name="closed" value="true" />
+      <created>1777321636007</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1777321636007</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,7 +117,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialize project structure with essential configuration files and a sample Jupyter Notebook" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialize project structure with essential configuration files and a sample Jupyter Notebook" />
+    <MESSAGE value="update sample notebook with macroeconomic indicators extraction and data cleaning process" />
+    <option name="LAST_COMMIT_MESSAGE" value="update sample notebook with macroeconomic indicators extraction and data cleaning process" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
