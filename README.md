@@ -1,4 +1,4 @@
-# S&P 500 Yield Curve Inversion Analysis
+# Yield-Curve-Market-Surge
 
 This project investigates the relationship between US Treasury yield curve inversions (10-year vs. 2-year bonds) and the performance of the S&P 500 index. The primary objective is to test the "Late-Cycle Market Surge" hypothesis – whether the stock market tends to rise significantly after the bond market signals an impending recession.
 

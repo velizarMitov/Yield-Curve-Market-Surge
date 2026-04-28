@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a951bc77-41a0-408c-a2ff-598a14c9af07" name="Changes" comment="add data integrity and algorithmic output checks in sample notebook">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sample.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="a951bc77-41a0-408c-a2ff-598a14c9af07" name="Changes" comment="refine README and sample notebook for clarity and consistency in analysis methodology" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +35,7 @@
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/velizarMitov/DataScienceUSGDP.git",
+    "url": "https://github.com/velizarMitov/Yield-Curve-Market-Surge.git",
     "accountId": "8c6597f9-3efc-4825-91e7-12caae1e9375"
   }
 }]]></component>
@@ -73,6 +69,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="pip install -r requirements.txt" />
+    </option>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -88,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1777319862845</updated>
-      <workItem from="1777319863892" duration="16486000" />
+      <workItem from="1777319863892" duration="17059000" />
     </task>
     <task id="LOCAL-00001" summary="initialize project structure with essential configuration files and a sample Jupyter Notebook">
       <option name="closed" value="true" />
@@ -202,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777368485196</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="refine README and sample notebook for clarity and consistency in analysis methodology">
+      <option name="closed" value="true" />
+      <created>1777371115330</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1777371115330</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,7 +228,8 @@
     <MESSAGE value="update" />
     <MESSAGE value="add project overview and key analysis stages for S&amp;P 500 dynamics analysis following yield curve inversion" />
     <MESSAGE value="add data integrity and algorithmic output checks in sample notebook" />
-    <option name="LAST_COMMIT_MESSAGE" value="add data integrity and algorithmic output checks in sample notebook" />
+    <MESSAGE value="refine README and sample notebook for clarity and consistency in analysis methodology" />
+    <option name="LAST_COMMIT_MESSAGE" value="refine README and sample notebook for clarity and consistency in analysis methodology" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
