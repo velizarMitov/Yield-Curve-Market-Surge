@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a951bc77-41a0-408c-a2ff-598a14c9af07" name="Changes" comment="update workspace configuration to include new task for macroeconomic indicators extraction process">
+    <list default="true" id="a951bc77-41a0-408c-a2ff-598a14c9af07" name="Changes" comment="refine methodological justification in sample notebook for t-test selection">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sample.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1777319862845</updated>
-      <workItem from="1777319863892" duration="9374000" />
+      <workItem from="1777319863892" duration="10244000" />
     </task>
     <task id="LOCAL-00001" summary="initialize project structure with essential configuration files and a sample Jupyter Notebook">
       <option name="closed" value="true" />
@@ -133,7 +132,23 @@
       <option name="project" value="LOCAL" />
       <updated>1777357482955</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update workspace configuration to include new task for macroeconomic indicators extraction process">
+      <option name="closed" value="true" />
+      <created>1777363067808</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1777363067808</updated>
+    </task>
+    <task id="LOCAL-00008" summary="refine methodological justification in sample notebook for t-test selection">
+      <option name="closed" value="true" />
+      <created>1777363099600</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1777363099600</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,7 +159,8 @@
     <MESSAGE value="update sample notebook with macroeconomic indicators extraction and data cleaning process" />
     <MESSAGE value="update workspace configuration and task summaries to reflect macroeconomic indicators extraction process" />
     <MESSAGE value="update workspace configuration to include new task for macroeconomic indicators extraction process" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace configuration to include new task for macroeconomic indicators extraction process" />
+    <MESSAGE value="refine methodological justification in sample notebook for t-test selection" />
+    <option name="LAST_COMMIT_MESSAGE" value="refine methodological justification in sample notebook for t-test selection" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
