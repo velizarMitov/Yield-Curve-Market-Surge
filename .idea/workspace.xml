@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a951bc77-41a0-408c-a2ff-598a14c9af07" name="Changes" comment="refine project overview and methodology in sample notebook for S&amp;P 500 analysis">
-      <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sample.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="a951bc77-41a0-408c-a2ff-598a14c9af07" name="Changes" comment="add markdown explanation of confidence levels and update execution count in sample notebook" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,8 +20,8 @@
   </component>
   <component name="CopilotUserSelectedModel">
     <selectedModels>
-      <entry key="chat-panel" value="Gemini 3.1 Pro" />
-      <entry key="agent-panel" value="Gemini 3.1 Pro" />
+      <entry key="chat-panel" value="GPT-5.2-Codex" />
+      <entry key="agent-panel" value="GPT-5.2-Codex" />
     </selectedModels>
   </component>
   <component name="Git.Settings">
@@ -82,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1777319862845</updated>
-      <workItem from="1777319863892" duration="10589000" />
+      <workItem from="1777319863892" duration="10943000" />
     </task>
     <task id="LOCAL-00001" summary="initialize project structure with essential configuration files and a sample Jupyter Notebook">
       <option name="closed" value="true" />
@@ -156,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777363762386</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add markdown explanation of confidence levels and update execution count in sample notebook">
+      <option name="closed" value="true" />
+      <created>1777364263588</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1777364263588</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,7 +175,8 @@
     <MESSAGE value="update workspace configuration to include new task for macroeconomic indicators extraction process" />
     <MESSAGE value="refine methodological justification in sample notebook for t-test selection" />
     <MESSAGE value="refine project overview and methodology in sample notebook for S&amp;P 500 analysis" />
-    <option name="LAST_COMMIT_MESSAGE" value="refine project overview and methodology in sample notebook for S&amp;P 500 analysis" />
+    <MESSAGE value="add markdown explanation of confidence levels and update execution count in sample notebook" />
+    <option name="LAST_COMMIT_MESSAGE" value="add markdown explanation of confidence levels and update execution count in sample notebook" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
