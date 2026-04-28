@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a951bc77-41a0-408c-a2ff-598a14c9af07" name="Changes" comment="add markdown explanation of confidence levels and update execution count in sample notebook" />
+    <list default="true" id="a951bc77-41a0-408c-a2ff-598a14c9af07" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,8 +24,8 @@
   </component>
   <component name="CopilotUserSelectedModel">
     <selectedModels>
-      <entry key="chat-panel" value="Claude Haiku 4.5" />
-      <entry key="agent-panel" value="Claude Haiku 4.5" />
+      <entry key="chat-panel" value="Auto" />
+      <entry key="agent-panel" value="Auto" />
     </selectedModels>
   </component>
   <component name="Git.Settings">
@@ -56,12 +60,16 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -80,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1777319862845</updated>
-      <workItem from="1777319863892" duration="11495000" />
+      <workItem from="1777319863892" duration="13549000" />
     </task>
     <task id="LOCAL-00001" summary="initialize project structure with essential configuration files and a sample Jupyter Notebook">
       <option name="closed" value="true" />
@@ -170,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777364834525</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update">
+      <option name="closed" value="true" />
+      <created>1777365009766</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1777365009766</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,7 +200,8 @@
     <MESSAGE value="refine methodological justification in sample notebook for t-test selection" />
     <MESSAGE value="refine project overview and methodology in sample notebook for S&amp;P 500 analysis" />
     <MESSAGE value="add markdown explanation of confidence levels and update execution count in sample notebook" />
-    <option name="LAST_COMMIT_MESSAGE" value="add markdown explanation of confidence levels and update execution count in sample notebook" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
